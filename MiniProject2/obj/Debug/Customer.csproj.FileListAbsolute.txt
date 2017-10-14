@@ -1,0 +1,17 @@
+C:\PBA\System Integration\MiniProject2\MiniProject2\bin\Debug\MiniProject2.exe.config
+C:\PBA\System Integration\MiniProject2\MiniProject2\bin\Debug\MiniProject2.exe
+C:\PBA\System Integration\MiniProject2\MiniProject2\bin\Debug\MiniProject2.pdb
+C:\PBA\System Integration\MiniProject2\MiniProject2\bin\Debug\EasyNetQ.dll
+C:\PBA\System Integration\MiniProject2\MiniProject2\bin\Debug\Messages.exe
+C:\PBA\System Integration\MiniProject2\MiniProject2\bin\Debug\Newtonsoft.Json.dll
+C:\PBA\System Integration\MiniProject2\MiniProject2\bin\Debug\RabbitMQ.Client.dll
+C:\PBA\System Integration\MiniProject2\MiniProject2\bin\Debug\Messages.pdb
+C:\PBA\System Integration\MiniProject2\MiniProject2\bin\Debug\Newtonsoft.Json.xml
+C:\PBA\System Integration\MiniProject2\MiniProject2\bin\Debug\RabbitMQ.Client.xml
+C:\PBA\System Integration\MiniProject2\MiniProject2\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+C:\PBA\System Integration\MiniProject2\MiniProject2\obj\Debug\MiniProject2.exe
+C:\PBA\System Integration\MiniProject2\MiniProject2\obj\Debug\MiniProject2.pdb
+C:\PBA\System Integration\MiniProject2\MiniProject2\bin\Debug\MessageTransformer.dll
+C:\PBA\System Integration\MiniProject2\MiniProject2\bin\Debug\Objects.dll
+C:\PBA\System Integration\MiniProject2\MiniProject2\bin\Debug\MessageTransformer.pdb
+C:\PBA\System Integration\MiniProject2\MiniProject2\bin\Debug\Objects.pdb

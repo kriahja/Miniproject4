@@ -1,0 +1,13 @@
+C:\PBA\System Integration\MiniProject2\Warehouses\bin\Debug\Warehouses.exe.config
+C:\PBA\System Integration\MiniProject2\Warehouses\bin\Debug\Warehouses.exe
+C:\PBA\System Integration\MiniProject2\Warehouses\bin\Debug\Warehouses.pdb
+C:\PBA\System Integration\MiniProject2\Warehouses\bin\Debug\EasyNetQ.dll
+C:\PBA\System Integration\MiniProject2\Warehouses\bin\Debug\Messages.exe
+C:\PBA\System Integration\MiniProject2\Warehouses\bin\Debug\Newtonsoft.Json.dll
+C:\PBA\System Integration\MiniProject2\Warehouses\bin\Debug\RabbitMQ.Client.dll
+C:\PBA\System Integration\MiniProject2\Warehouses\bin\Debug\Messages.pdb
+C:\PBA\System Integration\MiniProject2\Warehouses\bin\Debug\Newtonsoft.Json.xml
+C:\PBA\System Integration\MiniProject2\Warehouses\bin\Debug\RabbitMQ.Client.xml
+C:\PBA\System Integration\MiniProject2\Warehouses\obj\Debug\Warehouses.csprojResolveAssemblyReference.cache
+C:\PBA\System Integration\MiniProject2\Warehouses\obj\Debug\Warehouses.exe
+C:\PBA\System Integration\MiniProject2\Warehouses\obj\Debug\Warehouses.pdb

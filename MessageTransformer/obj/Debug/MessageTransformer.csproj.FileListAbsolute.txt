@@ -1,0 +1,7 @@
+C:\PBA\System Integration\MiniProject2\MessageTransformer\bin\Debug\MessageTransformer.dll
+C:\PBA\System Integration\MiniProject2\MessageTransformer\bin\Debug\MessageTransformer.pdb
+C:\PBA\System Integration\MiniProject2\MessageTransformer\bin\Debug\Messages.exe
+C:\PBA\System Integration\MiniProject2\MessageTransformer\bin\Debug\Messages.pdb
+C:\PBA\System Integration\MiniProject2\MessageTransformer\obj\Debug\MessageTransformer.csprojResolveAssemblyReference.cache
+C:\PBA\System Integration\MiniProject2\MessageTransformer\obj\Debug\MessageTransformer.dll
+C:\PBA\System Integration\MiniProject2\MessageTransformer\obj\Debug\MessageTransformer.pdb

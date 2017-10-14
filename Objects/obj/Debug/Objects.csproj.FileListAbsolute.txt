@@ -1,0 +1,8 @@
+C:\PBA\System Integration\MiniProject2\Objects\bin\Debug\Objects.dll.config
+C:\PBA\System Integration\MiniProject2\Objects\bin\Debug\Objects.dll
+C:\PBA\System Integration\MiniProject2\Objects\bin\Debug\Objects.pdb
+C:\PBA\System Integration\MiniProject2\Objects\bin\Debug\Messages.exe
+C:\PBA\System Integration\MiniProject2\Objects\bin\Debug\Messages.pdb
+C:\PBA\System Integration\MiniProject2\Objects\obj\Debug\Objects.csprojResolveAssemblyReference.cache
+C:\PBA\System Integration\MiniProject2\Objects\obj\Debug\Objects.dll
+C:\PBA\System Integration\MiniProject2\Objects\obj\Debug\Objects.pdb

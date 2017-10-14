@@ -1,0 +1,13 @@
+C:\PBA\System Integration\MiniProject2\Retailer\bin\Debug\Retailer.exe.config
+C:\PBA\System Integration\MiniProject2\Retailer\bin\Debug\Retailer.exe
+C:\PBA\System Integration\MiniProject2\Retailer\bin\Debug\Retailer.pdb
+C:\PBA\System Integration\MiniProject2\Retailer\bin\Debug\EasyNetQ.dll
+C:\PBA\System Integration\MiniProject2\Retailer\bin\Debug\Messages.exe
+C:\PBA\System Integration\MiniProject2\Retailer\bin\Debug\Newtonsoft.Json.dll
+C:\PBA\System Integration\MiniProject2\Retailer\bin\Debug\RabbitMQ.Client.dll
+C:\PBA\System Integration\MiniProject2\Retailer\bin\Debug\Messages.pdb
+C:\PBA\System Integration\MiniProject2\Retailer\bin\Debug\Newtonsoft.Json.xml
+C:\PBA\System Integration\MiniProject2\Retailer\bin\Debug\RabbitMQ.Client.xml
+C:\PBA\System Integration\MiniProject2\Retailer\obj\Debug\Retailer.csprojResolveAssemblyReference.cache
+C:\PBA\System Integration\MiniProject2\Retailer\obj\Debug\Retailer.exe
+C:\PBA\System Integration\MiniProject2\Retailer\obj\Debug\Retailer.pdb

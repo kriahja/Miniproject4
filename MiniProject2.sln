@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Customer", "MiniProject2\Customer.csproj", "{C61FB8B5-7887-4EE8-A632-868B16E979BE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FAD3E12D-85BF-4390-9AAE-DC9D0FB24AD4} = {FAD3E12D-85BF-4390-9AAE-DC9D0FB24AD4}
+		{CB10D59B-3907-4D7B-A705-90DCA621C2C8} = {CB10D59B-3907-4D7B-A705-90DCA621C2C8}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retailer", "Retailer\Retailer.csproj", "{09E6F4D0-FCFD-4B14-91C1-45B2A3D65AB2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FAD3E12D-85BF-4390-9AAE-DC9D0FB24AD4} = {FAD3E12D-85BF-4390-9AAE-DC9D0FB24AD4}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warehouses", "Warehouses\Warehouses.csproj", "{9356A136-04A5-47B7-BFBC-F777F056ACF5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FAD3E12D-85BF-4390-9AAE-DC9D0FB24AD4} = {FAD3E12D-85BF-4390-9AAE-DC9D0FB24AD4}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messages", "Messages\Messages.csproj", "{FAD3E12D-85BF-4390-9AAE-DC9D0FB24AD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Objects", "Objects\Objects.csproj", "{CB10D59B-3907-4D7B-A705-90DCA621C2C8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FAD3E12D-85BF-4390-9AAE-DC9D0FB24AD4} = {FAD3E12D-85BF-4390-9AAE-DC9D0FB24AD4}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageTransformer", "MessageTransformer\MessageTransformer.csproj", "{9FD35949-E928-4418-AF7C-8E7794ED660A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C61FB8B5-7887-4EE8-A632-868B16E979BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C61FB8B5-7887-4EE8-A632-868B16E979BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C61FB8B5-7887-4EE8-A632-868B16E979BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C61FB8B5-7887-4EE8-A632-868B16E979BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09E6F4D0-FCFD-4B14-91C1-45B2A3D65AB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09E6F4D0-FCFD-4B14-91C1-45B2A3D65AB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09E6F4D0-FCFD-4B14-91C1-45B2A3D65AB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09E6F4D0-FCFD-4B14-91C1-45B2A3D65AB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9356A136-04A5-47B7-BFBC-F777F056ACF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9356A136-04A5-47B7-BFBC-F777F056ACF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9356A136-04A5-47B7-BFBC-F777F056ACF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9356A136-04A5-47B7-BFBC-F777F056ACF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAD3E12D-85BF-4390-9AAE-DC9D0FB24AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD3E12D-85BF-4390-9AAE-DC9D0FB24AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD3E12D-85BF-4390-9AAE-DC9D0FB24AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD3E12D-85BF-4390-9AAE-DC9D0FB24AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB10D59B-3907-4D7B-A705-90DCA621C2C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB10D59B-3907-4D7B-A705-90DCA621C2C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB10D59B-3907-4D7B-A705-90DCA621C2C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB10D59B-3907-4D7B-A705-90DCA621C2C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FD35949-E928-4418-AF7C-8E7794ED660A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FD35949-E928-4418-AF7C-8E7794ED660A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FD35949-E928-4418-AF7C-8E7794ED660A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FD35949-E928-4418-AF7C-8E7794ED660A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

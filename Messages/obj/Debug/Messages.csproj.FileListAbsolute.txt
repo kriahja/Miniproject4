@@ -1,0 +1,10 @@
+C:\PBA\System Integration\MiniProject2\Messages\bin\Debug\Messages.exe.config
+C:\PBA\System Integration\MiniProject2\Messages\bin\Debug\Messages.exe
+C:\PBA\System Integration\MiniProject2\Messages\bin\Debug\Messages.pdb
+C:\PBA\System Integration\MiniProject2\Messages\bin\Debug\EasyNetQ.dll
+C:\PBA\System Integration\MiniProject2\Messages\bin\Debug\Newtonsoft.Json.dll
+C:\PBA\System Integration\MiniProject2\Messages\bin\Debug\RabbitMQ.Client.dll
+C:\PBA\System Integration\MiniProject2\Messages\bin\Debug\Newtonsoft.Json.xml
+C:\PBA\System Integration\MiniProject2\Messages\bin\Debug\RabbitMQ.Client.xml
+C:\PBA\System Integration\MiniProject2\Messages\obj\Debug\Messages.exe
+C:\PBA\System Integration\MiniProject2\Messages\obj\Debug\Messages.pdb
